@@ -4,7 +4,6 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 def plot_svm_boundary(model,X,y):
     
     X = X.values
